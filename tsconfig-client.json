@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "../public/dist",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es2015",
+    "jsx": "react",
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "node_modules",
+    "src/server.ts"
+  ]
+}
